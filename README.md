@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Wandewan! 👋
 
-<!--
-**wandewan123/wandewan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves tinkering with JavaScript, Python, and Git 💻  
+Currently, I'm focused on building open-source projects and learning AI 🤖
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Use:
+- JavaScript
+- Python
+- Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: dewanjava321@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/dewantamsih](https://www.linkedin.com/in/dewantamsih)
