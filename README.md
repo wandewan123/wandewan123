@@ -1,13 +1,12 @@
 # Hi, I'm Wandewan! 👋
 
-I'm a developer who loves tinkering with JavaScript, Python, and Git 💻  
-Currently, I'm focused on building open-source projects and learning AI 🤖
+I'm a developer who loves tinkering with Python 💻  
+Currently, I'm focused on learning Computational Physics and Quantum Computation 🤖
 
 ## 🔧 Technologies I Use:
-- JavaScript
 - Python
-- Node.js
-- Git & GitHub
+- Pennylane
+- Qiskit
 
 ## 📫 Contact Me
 - Email: dewanjava321@gmail.com  
