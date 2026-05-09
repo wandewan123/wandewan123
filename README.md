@@ -7,6 +7,7 @@ Currently, I'm focused on learning Computational Physics and Quantum Computation
 - Python
 - Pennylane
 - Qiskit
+- Fortran
 
 ## Contact Me
 - Email: dewanjava321@gmail.com  
